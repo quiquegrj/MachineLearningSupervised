@@ -1,0 +1,1 @@
+Este documento es sólo un ejemplo para que veamos en qué consiste hacer un commit. 
