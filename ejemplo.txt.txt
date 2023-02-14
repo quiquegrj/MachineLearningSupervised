@@ -1,1 +1,3 @@
 Este documento es sólo un ejemplo para que veamos en qué consiste hacer un commit. 
+
+Me gusta este documento pero hago una modificación para que se vea como funciona. 
